@@ -1,12 +1,12 @@
-# Hi there, I'm Swapna Subham Das 👋
+# Hi there, I'm SwapnaSubham Das 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=swapnasubham-das&color=blueviolet&style=flat-square)
 
 ## About Me
 
 - 🌱 I’m currently learning **Advanced Python and Machine Learning**
-- 💼 I’m working on various exciting projects in **Data Science and Web Development**
-- 💬 Ask me about **Python, Machine Learning, and Web Development**
+- 💼 I’m working on various exciting projects in **Data Science and Machine Learning**
+- 💬 Ask me about **Python and Machine Learning=**
 - 📫 How to reach me: [Email](mailto:swapnasubham.das@gmail.com) | [LinkedIn](https://www.linkedin.com/in/swapnasubham-das-077799211/)
 - ⚡ Fun fact: I love solving puzzles and exploring new technologies
 
@@ -26,9 +26,9 @@
 
 ## Projects
 
-- [**Project A**](https://github.com/swapnasubham-das/project-a) - A web application for managing tasks and projects.
-- [**Project B**](https://github.com/swapnasubham-das/project-b) - A machine learning model for predicting house prices.
-- [**Project C**](https://github.com/swapnasubham-das/project-c) - An interactive data visualization tool.
+- [**Movie Recommendation System**](https://github.com/swapnasubham-das/movie_recommendation_system) - A web application for movie recommendation system.
+- [**Car Price Prediction**](https://github.com/swapnasubham-das/supervised_machine_learning/tree/main/Car_Price_Prediction) - A machine learning model for predicting car prices.
+- [**Crop Yield Prediction**](https://github.com/swapnasubham-das/supervised_machine_learning/tree/main/Crop_Yield_Prediction) - A machine learning model for predicting crop yield.
 
 ## GitHub Stats
 
